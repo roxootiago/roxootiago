@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=677bbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+pessoas!+👋;Seja+bem-vindo+ao+meu+perfil!)](https://git.io;typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=677bbf&size=35&center=true&vCenter=true&width=1000&lines=Hey,+guys!+👋;Welcome+to+my+profile!)](https://git.io;typing-svg)
 
 ## About me:
 - I'am 20 years old;;
