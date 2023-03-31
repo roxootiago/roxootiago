@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-<br><h3 align="centre"><b>Visitantes</b></h3>  
+<br><h3 align="centre"><b>Visitas ao perfil</b></h3>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{roxootiago}/count.svg" /></p> 
 <br>
 </div>
