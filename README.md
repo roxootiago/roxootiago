@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=677bbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Tiago+Rôxo+aqui+🖖;Seja+bem-vindo!)](https://git.io;typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=677bbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+pessoas!+👋;Seja+bem-vindo+ao+meu+perfil!)](https://git.io;typing-svg)
 
-## Sobre mim:
-- tenho 20 anos;
-- atualmente curso Análise e Desenvolvimento de Sistemas pela Faculdade SENAC Pe;
-- gosto de ver animes, ler e codar no meu tempo livre;
-- meus hobbies favoritos são jogar e tocar violão;
-- sempre estou ouvindo algo e gosto de indicações de músicas 🎶;
-- inicei em programação no ano de 2020 com JavaScript,Python e introdução a SQL;
+## About me:
+- I'am 20 years old;;
+- currently studying Systems Analysis and Development at Faculdade SENAC Pe;
+- I like watching anime, reading books and coding in my free time;
+- my favorite hobbies are play games and to play the guitar;
+- I'm always listening to something and I like song recommendations🎶;
+- I started programming in 2020 with JavaScript, Python and introduction to SQL;
     
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=roxootiago&show_icons=true&count_private=true&hide_border=true&title_color=677bbf&icon_color=4c5f9e&text_color=c9d1d9&bg_color=0d1117" alt="Tiago Rôxo githu stats" /> 
@@ -17,7 +17,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="200" width="350" alt="coding-time" src="https://media.tenor.com/KeDD0PrMX1gAAAAd/jake-lofi.gif">
-    <h1 align="center">Principais Tecnologias</h1>
+    <h1 align="center">Main Technologies:</h1>
     <img align="center" height="30" width="40" alt="html5-icon" title="HTML5" src="https://www.svgrepo.com/show/452228/html-5.svg">
     <img align="center" height="30" width="40" alt="css3-icon" title="CSS3" src="https://www.svgrepo.com/show/452185/css-3.svg">
     <img align="center" height="30" width="40" alt="javascript-icon"  title="JavaScript"src="https://www.svgrepo.com/show/452045/js.svg">
@@ -27,12 +27,12 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h2 align="center">Aprendendo no momento</h2>
+    <h2 align="center">Learning:</h2>
     <img align="center" height="30" width="40" alt="java-icon" title="Java" src="https://www.svgrepo.com/show/452234/java.svg">
      <img align="center" height="30" width="40" alt="javascript-icon"  title="JavaScript"src="https://www.svgrepo.com/show/452045/js.svg">
 </div>
 
-<h1 align="center">Redes Sociais</h1>
+<h1 align="center">Social media</h1>
     <a href = "mailto: tiagorxsilva@gmail.com" >
       <img width="30"  src="https://www.svgrepo.com/show/223047/gmail.svg" title="E-mail" target="_blank">
     </a>
@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-<br><h3 align="centre"><b>Visitas ao perfil</b></h3>  
+<br><h3 align="centre"><b>Profile Views</b></h3>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{roxootiago}/count.svg" /></p> 
 <br>
 </div>
