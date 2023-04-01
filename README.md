@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=677bbf&size=35&center=true&vCenter=true&width=1000&lines=Hey,+guys!+👋;Welcome+to+my+profile!)](https://git.io;typing-svg)
 
 ## About me:
-- I'am 20 years old;;
+- I'm 20 years old;;
 - currently studying Systems Analysis and Development at Faculdade SENAC Pe;
 - I like watching anime, reading books and coding in my free time;
 - my favorite hobbies are play games and to play the guitar;
