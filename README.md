@@ -16,7 +16,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="200" width="350" alt="coding-time" src="https://media.tenor.com/KeDD0PrMX1gAAAAd/jake-lofi.gif">
+    <img align="right" height="200" width="350" alt="coding-time" src="https://media.tenor.com/KeDD0PrMX1gAAAAd/jake-lofi.gif">
     <h1 align="center">Main Technologies:</h1>
     <img align="center" height="30" width="40" alt="html5-icon" title="HTML5" src="https://www.svgrepo.com/show/452228/html-5.svg">
     <img align="center" height="30" width="40" alt="css3-icon" title="CSS3" src="https://www.svgrepo.com/show/452185/css-3.svg">
@@ -26,25 +26,25 @@
 </div>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     <h2 align="center">Learning:</h2>
     <img align="center" height="30" width="40" alt="java-icon" title="Java" src="https://www.svgrepo.com/show/452234/java.svg">
      <img align="center" height="30" width="40" alt="javascript-icon"  title="JavaScript"src="https://www.svgrepo.com/show/452045/js.svg">
 </div>
 
-<h1 align="center">Social media</h1>
-    <a href = "mailto: tiagorxsilva@gmail.com" >
-      <img width="30"  src="https://www.svgrepo.com/show/223047/gmail.svg" title="E-mail" target="_blank">
-    </a>
-    <a href = "https://www.linkedin.com/in/tiago-roxo-547630219/" target="_blank" >
-      <img width="30" title="Linkedin" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg">
-    </a>
-    <a href = "https://www.instagram.com/rx.tiago/" >
-      <img width="30" title="Instagram" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" target="_blank" >
-    </a>
-     <a href = "https://open.spotify.com/user/21zv7klano65vuk3um3dzqnvy" >
-      <img width="30" title="Spotify" src="https://www.svgrepo.com/show/475684/spotify-color.svg" target="_blank" >
-    </a>
+<div  align="center"> 
+  <div style="display: inline_block">
+    <h2 align="center">Contact me:</h2>
+    <a  href = "mailto: tiagorxsilva@gmail.com" > 
+        <img align="center" height="30" width="40" alt="gmail-icon" title="E-mail" src="https://www.svgrepo.com/show/223047/gmail.svg">
+        </a>
+      <a  href = "https://www.linkedin.com/in/tiago-roxo-547630219/" > 
+        <img align="center" height="30" width="40" alt="linkedin-icon" title="Linkedin" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg">
+        </a>
+      <a  href = "https://open.spotify.com/user/21zv7klano65vuk3um3dzqnvy" > 
+        <img align="center" height="30" width="40" alt="spotify-icon" title="Linkedin" src="https://www.svgrepo.com/show/475684/spotify-color.svg">
+        </a>
+    
 </div>
 
 <div align="center">
