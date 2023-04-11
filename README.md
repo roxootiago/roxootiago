@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=677bbf&size=35&center=true&vCenter=true&width=1000&lines=Hey,+guys!+👋;Welcome+to+my+profile!)](https://git.io;typing-svg)
 
 ## About me:
-- I'm 20 years old;
-- currently studying Systems Analysis and Development at Faculdade SENAC Pe;
-- I like watching anime, reading books and coding in my free time;
-- my favorite hobbies are play games and to play the guitar;
-- I'm always listening to something and I like song recommendations🎶;
-- I started programming in 2020 with JavaScript, Python and introduction to SQL;
+- 🌱 I'm 20 years old;
+- 👨‍🎓 currently studying Systems Analysis and Development at Faculdade SENAC Pe;
+- 👾 I like watching anime, reading books and coding in my free time;
+- 📌 I started programming in 2021 with JavaScript, Python and introduction to SQL;
     
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=roxootiago&show_icons=true&count_private=true&hide_border=true&title_color=677bbf&icon_color=4c5f9e&text_color=c9d1d9&bg_color=0d1117" alt="Tiago Rôxo githu stats" /> 
