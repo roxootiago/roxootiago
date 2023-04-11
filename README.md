@@ -34,7 +34,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block">
-    <h2 align="center">Contact me:</h2>
+    <h2 align="center">Social Media:</h2>
     <a  href = "mailto: tiagorxsilva@gmail.com" > 
         <img align="center" height="30" width="40" alt="gmail-icon" title="E-mail" src="https://www.svgrepo.com/show/223047/gmail.svg">
         </a>
