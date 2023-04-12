@@ -40,7 +40,7 @@
         <img align="center" height="30" width="40" alt="linkedin-icon" title="Linkedin" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg">
         </a>
       <a  href = "https://open.spotify.com/user/21zv7klano65vuk3um3dzqnvy" > 
-        <img align="center" height="30" width="40" alt="spotify-icon" title="Linkedin" src="https://www.svgrepo.com/show/475684/spotify-color.svg">
+        <img align="center" height="30" width="40" alt="spotify-icon" title="Spotify" src="https://www.svgrepo.com/show/475684/spotify-color.svg">
         </a>
     
 </div>
