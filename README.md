@@ -27,7 +27,6 @@
   <div style="display: inline_block">
     <h2 align="center">Learning:</h2>
     <img align="center" height="30" width="40" alt="java-icon" title="Java" src="https://www.svgrepo.com/show/452234/java.svg">
-     <img align="center" height="30" width="40" alt="javascript-icon"  title="JavaScript"src="https://www.svgrepo.com/show/452045/js.svg">
 </div>
 
 <div  align="center"> 
