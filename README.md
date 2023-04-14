@@ -14,7 +14,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="right" height="200" width="350" alt="coding-time" src="https://media.tenor.com/KeDD0PrMX1gAAAAd/jake-lofi.gif">
+    <img align="right" height="40%" width="33%" " alt="coding-time" src="https://i.pinimg.com/originals/e4/63/44/e463446ad79fe415c77f6d3b24945995.gif">
     <h1 align="center">Main Technologies:</h1>
     <img align="center" height="30" width="40" alt="html5-icon" title="HTML5" src="https://www.svgrepo.com/show/452228/html-5.svg">
     <img align="center" height="30" width="40" alt="css3-icon" title="CSS3" src="https://www.svgrepo.com/show/452185/css-3.svg">
