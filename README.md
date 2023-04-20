@@ -7,8 +7,8 @@
 - 📌 I started programming in 2021 with JavaScript, Python and introduction to SQL;
     
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=roxootiago&show_icons=true&icon_color=4c5f9e&hide_border=true&theme=tokyonight" alt="Tiago Rôxo githu stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxootiago&theme=tokyonight&hide_border=true&layout=compact" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=roxootiago&show_icons=true&icon_color=4c5f9e&&bg_color=0d1117&hide_border=true&theme=tokyonight" alt="Tiago Rôxo githu stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxootiago&&bg_color=0d1117&theme=tokyonight&hide_border=true&layout=compact" />
 
 </div>
 
