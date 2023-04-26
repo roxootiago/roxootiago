@@ -20,11 +20,11 @@
 
 <div align="center">
     <picture>
-  <source  height="180em" media="(prefers-color-scheme: light)","(prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=roxootiago&show_icons=true&icon_color=4c5f9e&title_color=677bbf&text_color=4c5f9e&bg_color=#FFFFFF&hide_border=true&theme=tokyonight">
+  <source  height="180em" media="(prefers-color-scheme: light)","(prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=roxootiago&show_icons=true&icon_color=4c5f9e&title_color=677bbf&text_color=4c5f9e&bg_color=FFFFFF&hide_border=true&theme=tokyonight">
   <img alt="status Tiago Rôxo github white">
 </picture>
    <picture>
-  <source  height="180em" media="(prefers-color-scheme: light)","(prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roxootiago&title_color=677bbf&text_color=4c5f9e&bg_color=#FFFFFFtheme=tokyonight&hide_border=true&layout=compact">
+  <source  height="180em" media="(prefers-color-scheme: light)","(prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roxootiago&title_color=677bbf&text_color=4c5f9e&bg_color=FFFFF&theme=tokyonight&hide_border=true&layout=compact">
   <img alt="status Tiago Rôxo github white">
 </picture>
    </div>
