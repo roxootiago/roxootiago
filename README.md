@@ -9,12 +9,12 @@
 <div align="center">  
    <picture>
   <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=roxootiago&show_icons=true&title_color=677bbf&icon_color=4c5f9e&text_color=4c5f9e&bg_color=0d1117&hide_border=true&theme=tokyonight">
-  <img alt="status Tiago Rôxo github dark">
+  <img >
 </picture>
     
    <picture>
   <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roxootiago&title_color=677bbf&text_color=4c5f9e&bg_color=0d1117&theme=tokyonight&hide_border=true&layout=compact">
-  <img alt="status Tiago Rôxo github dark">
+  <img >
 </picture>
    </div>
 
