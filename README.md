@@ -16,6 +16,11 @@
   <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roxootiago&text_color=4c5f9e&bg_color=0d1117&theme=tokyonight&hide_border=true&layout=compact">
   <img alt="status Tiago Rôxo github dark">
 </picture>
+    
+  <picture>
+  <source height="180em" media="(prefers-color-scheme: light)","(prefers-color-scheme: no-preference" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roxootiago&text_color=4c5f9e&bg_color=#FFFFFF&theme=tokyonight&hide_border=true&layout=compact">
+  <img alt="status Tiago Rôxo github dark">
+</picture>
 </div>
 
 <div  align="center"> 
