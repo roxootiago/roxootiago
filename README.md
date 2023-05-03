@@ -33,7 +33,8 @@
   <div style="display: inline_block">
     <h2 align="center">Learning:</h2>
     <img align="center" height="30" width="40" alt="python-icon" title="Python" src="https://www.svgrepo.com/show/452091/python.svg">
-    <img align="center" height="30" width="40" alt="java-icon" title="Java" src="https://www.svgrepo.com/show/452234/java.svg">
+    <img align="center" height="30" width="40" alt="javascript-icon"  title="JavaScript"src="https://www.svgrepo.com/show/452045/js.svg">
+    <img align="center" height="35" width="40" alt="language-c-icon"  title="C"src="https://www.svgrepo.com/show/373484/c3.svg">                                                                                                                                   
 </div>
 
 <div  align="center"> 
