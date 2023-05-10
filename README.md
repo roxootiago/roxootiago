@@ -7,16 +7,10 @@
 - 📌 I started programming in 2021 with JavaScript, Python and introduction to SQL;
     
 <div align="center">  
-   <picture>
-  <source height="150em" media="(prefers-color-scheme: dark)" srcset="">
-  <img height="150em" src="">
-</picture>
+
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=roxootiago&show_icons=true&title_color=677bbf&icon_color=4c5f9e&text_color=4c5f9e&bg_color=0d1117&hide_border=true&theme=tokyonight">
     
-   <picture>
-  <source height="150em" media="(prefers-color-scheme: dark)" srcset="">
-  <img height="150em" src="">
-</picture>
-   </div>
+   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roxootiago&title_color=677bbf&text_color=4c5f9e&bg_color=0d1117&theme=tokyonight&hide_border=true&layout=compact">
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
