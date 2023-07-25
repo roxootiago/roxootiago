@@ -45,6 +45,7 @@
     
 </div>
 
-![snake gif](https://github.com/roxootiago/roxootiago/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/roxootiago/roxootiago/blob/output/github-contribution-grid-snake.svg)
+
 
 
