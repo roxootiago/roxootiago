@@ -45,10 +45,3 @@
     
 </div>
 
-<div align="center">
-<br><h3 align="centre"><b>Profile Views</b></h3>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{roxootiago}/count.svg" /></p> 
-<br>
-</div>
-
-![snake gif](https://github.com/roxootiago/roxootiago/blob/output/github-contribution-grid-snake.svg)
