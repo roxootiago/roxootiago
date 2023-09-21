@@ -18,7 +18,9 @@
     <img align="center" height="30" width="40" alt="html5-icon" title="HTML5" src="https://www.svgrepo.com/show/452228/html-5.svg">
     <img align="center" height="30" width="40" alt="css3-icon" title="CSS3" src="https://www.svgrepo.com/show/452185/css-3.svg">
     <img align="center" height="30" width="40" alt="javascript-icon"  title="JavaScript"src="https://www.svgrepo.com/show/452045/js.svg">
+    <img align="center" height="30" width="40" alt="typescript-icon" title="TypeScript" src="https://www.svgrepo.com/show/303600/typescript-logo.svg">
     <img align="center" height="30" width="40" alt="python-icon" title="Python" src="https://www.svgrepo.com/show/452091/python.svg">
+     <img align="center" height="30" width="40" alt="java-icon" title="Java" src="https://www.svgrepo.com/show/452234/java.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" title="MySQL" src="https://www.svgrepo.com/show/355133/mysql.svg">
 </div>
 
